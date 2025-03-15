@@ -1,0 +1,9 @@
+[
+  {
+    "name": "ziko",
+    "age": 23,
+    "gender": "male",
+    "student_id": "123456",
+    "courses": []
+  }
+]
